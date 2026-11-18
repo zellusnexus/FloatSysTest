@@ -1,0 +1,10 @@
+/* Review highlight: marks every piece of content added in the Nov 2026
+   content update with a subtle blue tint.
+   To remove the highlight once the client has reviewed the changes, delete
+   this file's <link> tag (or empty this file). Nothing else depends on it. */
+
+.fs-new {
+    background-color: rgba(66, 140, 220, 0.10);
+    box-shadow: 0 0 0 1px rgba(66, 140, 220, 0.28);
+    border-radius: 4px;
+}
