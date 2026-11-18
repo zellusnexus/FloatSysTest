@@ -320,7 +320,7 @@ h4 {
 }
 
 .wavepro{
-    background: url("/images/wavebkgd.jpg");
+    background: url("../images/wavebkgd.jpg");
     background-color: #ebeae9;
     background-position: top;
     background-repeat: no-repeat;
